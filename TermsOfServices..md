@@ -1,6 +1,6 @@
-# Vivek Sharma TERMS OF SERVICE
+# TERMS OF SERVICE
 
-Last Updated: 04-Apr-2021
+Last Updated: 25-Nov-2024
 
 These terms of service ("Terms") apply to your access and use of Lotto/Hang Byte/WEBSITE and Web Applications (the "Service"). Please read them carefully.
 
